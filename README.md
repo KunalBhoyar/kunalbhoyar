@@ -39,7 +39,7 @@
 - Deployed **Zscaler** application connectors for secure traffic monitoring and enhanced network performance.
 - Developed automation scripts to improve infrastructure monitoring and oversight.
 
----
+
 
 
 ---
