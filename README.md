@@ -1,15 +1,41 @@
-## Hi there 👋
+# 👨‍💻 Kunal Bhoyar
 
+### 🎓 Master of Science in Information Systems | Northeastern University, Boston, MA
 
+---
 
+🌟 **DevOps Engineer** | **Python Developer** | **Cloud Enthusiast**
 
-# Kunal Bhoyar
+Welcome to my GitHub profile! I’m passionate about developing scalable applications, automating processes, and leveraging cloud technologies to drive efficiency.
 
-Currently pursuing a **Master of Science in Information Systems** from **Northeastern University, Boston, MA**, I am a skilled **DevOps Engineer** and **Python developer**. With expertise in programming languages, cloud computing, and data engineering, I excel at developing scalable applications and collaborating with cross-functional teams to deliver impactful solutions.
+---
 
-I am proficient in **Python** and am actively expanding my knowledge in **DevOps** with hands-on experience using **AWS** and **GCP**.
+## 🔧 **Tech Stack**:
+- **Languages**: Python, Bash, SQL
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, GitLab CI
+- **Cloud**: AWS, GCP
+- **Other Tools**: BigQuery, Airbyte, HashiCorp Vault
 
-- As a **DevOps Engineer**, I designed and implemented a **Modern Data Stack** process, reducing resource usage by optimizing workflows.
-- Previously, as a **Python Product Engineer**, I developed a utilities application that improved server setup efficiency.
+---
 
-I also have extensive experience in managing network infrastructure and automating DevOps practices to improve scalability and efficiency.
+## 📈 **Experience Highlights**:
+
+### DevOps Engineer
+- 💡 Designed and implemented a **Modern Data Stack** to efficiently enter data into BigQuery using **Airbyte** and a custom Python connector.
+- 🛠️ Deployed subprojects with **Terraform** and **GitLab CI** over **Google Kubernetes Engine**, optimizing resource usage.
+- 🔐 Used **HashiCorp Vault** for secure storage of login information.
+
+### Python Product Engineer
+- ⚙️ Developed the **DigiValet Utilities application**, reducing server setup time for teams across various projects.
+- 📊 Automated infrastructure monitoring and logging for improved efficiency.
+
+---
+
+## 🌐 **Connect with Me**:
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
+- [Email Me](mailto:youremail@example.com)
+
+---
+
+"Empowering innovation through automation and collaboration." 🚀
