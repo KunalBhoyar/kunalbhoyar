@@ -1,41 +1,49 @@
-# 👨‍💻 Kunal Bhoyar
+# 👨‍💻 Hi, I'm Kunal Bhoyar!
 
-### 🎓 Master of Science in Information Systems | Northeastern University, Boston, MA
+🚀 **DevOps Engineer** | **Python Developer** | **Cloud Enthusiast**
 
----
-
-🌟 **DevOps Engineer** | **Python Developer** | **Cloud Enthusiast**
-
-Welcome to my GitHub profile! I’m passionate about developing scalable applications, automating processes, and leveraging cloud technologies to drive efficiency.
+### Currently pursuing a Master of Science in Information Systems at Northeastern University, Boston.
 
 ---
 
-## 🔧 **Tech Stack**:
-- **Languages**: Python, Bash, SQL
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, GitLab CI
-- **Cloud**: AWS, GCP
-- **Other Tools**: BigQuery, Airbyte, HashiCorp Vault
+## 🔥 **About Me**
+
+- 🔧 Skilled in Python, Docker, Terraform, AWS, GCP, and more.
+- 🌐 Passionate about cloud computing, data engineering, and scalable infrastructure.
+- 🛠️ Experienced in streamlining deployment processes, automating tasks, and reducing resource usage for efficient solutions.
+- 💼 Always learning and improving, currently exploring Kubernetes and DevOps best practices.
 
 ---
 
-## 📈 **Experience Highlights**:
-
-### DevOps Engineer
-- 💡 Designed and implemented a **Modern Data Stack** to efficiently enter data into BigQuery using **Airbyte** and a custom Python connector.
-- 🛠️ Deployed subprojects with **Terraform** and **GitLab CI** over **Google Kubernetes Engine**, optimizing resource usage.
-- 🔐 Used **HashiCorp Vault** for secure storage of login information.
-
-### Python Product Engineer
-- ⚙️ Developed the **DigiValet Utilities application**, reducing server setup time for teams across various projects.
-- 📊 Automated infrastructure monitoring and logging for improved efficiency.
+## 🛠 **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-## 🌐 **Connect with Me**:
+## 💡 **Experience**
+### **DevOps Engineer**
+- 🚀 Implemented a **Modern Data Stack** to integrate data into **BigQuery** using Airbyte, reducing cloud resource costs.
+- 🔐 Secured application deployments with **Terraform** and **HashiCorp Vault**, using **GCP** and **Google Kubernetes Engine** for scalable projects.
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
-- [Email Me](mailto:youremail@example.com)
+### **Python Product Engineer**
+- ⚙️ Designed and implemented a utility to reduce server setup time for development teams.
 
 ---
 
-"Empowering innovation through automation and collaboration." 🚀
+## 📈 **GitHub Stats**
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalbhoyar&show_icons=true&theme=radical)
+
+---
+
+## 🌐 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalbhoyar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+*“Empowering businesses with scalable solutions and automation.”*
