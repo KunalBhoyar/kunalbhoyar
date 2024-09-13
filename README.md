@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 **About Me**
+## **About Me**
 
 - 🔧 Skilled in Python, Docker, Terraform, AWS, GCP, Kubernetes, Ansible, Jenkins, and more.
 - 🌐 Passionate about cloud computing, data engineering, and scalable infrastructure.
